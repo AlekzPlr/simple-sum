@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+
+.env
+.env.*
+!.env.example
+
+_bmad/config.user.toml
+.memlog.md
