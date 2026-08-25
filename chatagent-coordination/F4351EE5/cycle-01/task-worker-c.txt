@@ -1,0 +1,17 @@
+{
+  "schema": "arithmetic-verify-task/v1",
+  "run_id": "F4351EE5",
+  "cycle": 1,
+  "worker_a": {
+    "repo_path": "chatagent-coordination/F4351EE5/cycle-01/result-worker-a.txt",
+    "sha256": "944c73c26923a59b9f71e7575742d900bcab87909e96b1980a4d247f178fb87e",
+    "commit_sha": "8b340040bf1b7ab10e9ef124a52f547fa1537b0a"
+  },
+  "worker_b": {
+    "repo_path": "chatagent-coordination/F4351EE5/cycle-01/result-worker-b.txt",
+    "sha256": "a64ecaecfcbee22fb6abc6d1b5c50643ad2c428376bbd1aca2e5eafcf241e55e",
+    "commit_sha": "034cb9ee77480acce37e24072ba6f4b40bcb612f"
+  },
+  "previous_worker_c": null,
+  "initial_cumulative": 0
+}
