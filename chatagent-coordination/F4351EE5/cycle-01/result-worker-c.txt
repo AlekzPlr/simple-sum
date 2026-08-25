@@ -1,0 +1,1 @@
+{"schema":"arithmetic-verify-result/v1","run_id":"F4351EE5","cycle":1,"worker_a_result":813,"worker_b_result":503,"cycle_sum":1316,"previous_cumulative":0,"cumulative":1316}
