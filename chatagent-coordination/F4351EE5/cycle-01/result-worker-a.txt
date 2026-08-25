@@ -1,0 +1,1 @@
+{"schema":"arithmetic-worker-result/v1","run_id":"F4351EE5","cycle":1,"agent":"worker-a","result":813}
