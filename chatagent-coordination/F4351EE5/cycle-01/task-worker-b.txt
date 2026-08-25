@@ -1,0 +1,11 @@
+{
+  "schema": "arithmetic-worker-task/v1",
+  "run_id": "F4351EE5",
+  "cycle": 1,
+  "agent": "worker-b",
+  "operation": "sum",
+  "operands": [
+    311,
+    192
+  ]
+}
